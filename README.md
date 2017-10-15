@@ -1,2 +1,2 @@
 # PiroposdeAlbanil
-App simple para mostrar citas y compartirlas.
+App simple para mostrar frases o citas, con la posibilidad de compartirlas.
